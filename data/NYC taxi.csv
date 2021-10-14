@@ -1,0 +1,6 @@
+vendorID,tpep_pickup_datetime,tpep_pickoff_datetime ,passenger_count,trip_distance,RatecodeID,store_and_fwd_flag,PULocationID,DOLocationID,payment_type,fare_amount
+1,01-01-2019 00:46,01-01-2019 00:46,1,1.5,1,N,151,239,1,7
+1,01-01-2018 00:59,01-01-2018 00:59,1,2.6,1,N,239,246,1,14
+2,01-01-2018 00:59,01-01-2018 00:59,3,0,1,N,236,236,1,4.5
+2,01-01-2018 00:42,01-01-2018 00:52,5,0,1,N,193,193,2,3.5
+2,01-01-2018 00:52,01-01-2018 00:58,5,0,2,N,193,193,2,52
